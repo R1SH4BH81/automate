@@ -4,10 +4,10 @@ import os
 import time
 
 # Configuration
-TOKEN = "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"
+TOKEN = "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"
 REPO_NAME = "R1SH4BH81/redesign"
 FILE_PATH = "auto.md"  # File to edit
-COMMIT_MESSAGE = "Random update for stats improvement"
+COMMIT_MESSAGE = " update for in auto.md"
 
 # Initialize GitHub API
 g = Github(TOKEN)
