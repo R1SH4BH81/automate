@@ -25,4 +25,4 @@ jobs:
       - name: Install dependencies
         run: pip install PyGithub
       - name: Execute bot
-        run: python bot.py
+        run: python hi.py
